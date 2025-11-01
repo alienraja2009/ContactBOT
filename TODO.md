@@ -1,5 +1,0 @@
-- [x] Change PRIVATE_MODE to False in telegram_bot.py to enable public mode
-- [x] Change multi checker messages to normal text instead of monospace
-- [x] Fix /stats command to use normal text instead of monospace
-- [x] Update all monospace messages to normal text except successful hits (keep success responses in monospace)
-- [x] Fix /batch command crashing during processing
